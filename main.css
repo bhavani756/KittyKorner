@@ -1,0 +1,19 @@
+h1 {
+	color:darkgreen;
+	margin-left: 35%;
+
+}
+#shiny {
+	color:gold;
+}
+#paws {
+	font-style: italic;
+	color:purple;
+}
+img {
+	width:40%;
+	height:40%;
+	margin-left: 10%;
+	border:5px;
+	border-color:blue; 
+}
